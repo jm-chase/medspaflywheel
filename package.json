@@ -1,0 +1,29 @@
+{
+  "name": "medspaflywheel-website",
+  "version": "1.0.0",
+  "description": "MedSpa Flywheel marketing website with centralized content management",
+  "scripts": {
+    "update-content": "python3 scripts/update-content.py",
+    "build": "python3 scripts/update-content.py && echo 'Content updated successfully!'",
+    "dev": "python3 scripts/update-content.py && python3 -m http.server 8000",
+    "test": "echo 'No tests configured yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jm-chase/medspaflywheel.git"
+  },
+  "keywords": [
+    "med-spa",
+    "marketing",
+    "website",
+    "static-site"
+  ],
+  "author": "MedSpa Flywheel",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.x"
+  },
+  "buildCommand": "npm run build"
+}

@@ -1,0 +1,377 @@
+{
+  "company": {
+    "name": "MedSpa Flywheel",
+    "tagline": "Medical Spa Marketing That Delivers Results",
+    "description": "Specialized marketing agency for medical spas and aesthetic clinics in the Southeast.",
+    "contact": {
+      "email": "hello@medspaflywheel.com",
+      "phone": "(888) 555-1234",
+      "phoneFormatted": "+1-888-555-1234",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": ""
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/medspaflywheel",
+      "instagram": "https://www.instagram.com/medspaflywheel",
+      "linkedin": "https://www.linkedin.com/company/medspaflywheel",
+      "twitter": "https://www.twitter.com/medspaflywheel"
+    },
+    "logo": {
+      "path": "images/logo.png",
+      "alt": "MedSpa Flywheel Logo"
+    }
+  },
+
+  "homepage": {
+    "hero": {
+      "headline": "Grow Your Med Spa with Proven Marketing",
+      "subheadline": "We help medical spas fill their appointment calendars with qualified leads through precision-targeted advertising and automated marketing systems.",
+      "cta": {
+        "primary": "Get Your Free Strategy Call",
+        "secondary": "See Case Studies"
+      }
+    },
+    "stats": {
+      "medSpasServed": {
+        "number": "50+",
+        "label": "Med Spas Served"
+      },
+      "averageROI": {
+        "number": "250%",
+        "label": "Average ROI Increase"
+      },
+      "appointmentsGenerated": {
+        "number": "10K+",
+        "label": "New Client Appointments Generated"
+      },
+      "clientRating": {
+        "number": "4.8★",
+        "label": "Average Client Rating"
+      }
+    }
+  },
+
+  "team": [
+    {
+      "id": "sarah-mitchell",
+      "name": "Sarah Mitchell",
+      "title": "Founder & CEO",
+      "bio": "With over 12 years in digital marketing and a passion for the aesthetics industry, Sarah founded MedSpa Flywheel to help med spas thrive in an increasingly competitive market. Her data-driven approach has helped dozens of clinics transform their marketing.",
+      "photo": "images/team/sarah-mitchell.jpg",
+      "linkedIn": "",
+      "email": ""
+    },
+    {
+      "id": "marcus-rodriguez",
+      "name": "Marcus Rodriguez",
+      "title": "Head of Paid Media",
+      "bio": "Marcus brings 8 years of Google Ads and Facebook Ads expertise specifically in the healthcare and beauty sectors. His campaigns consistently achieve 3-5x ROAS for med spa clients, combining creative ad copy with precision audience targeting.",
+      "photo": "images/team/marcus-rodriguez.jpg",
+      "linkedIn": "",
+      "email": ""
+    },
+    {
+      "id": "aisha-patel",
+      "name": "Aisha Patel",
+      "title": "Director of Automation",
+      "bio": "Aisha is our automation wizard, specializing in email marketing, CRM integration, and marketing automation. She's built systems that have generated over $2M in automated revenue for our clients through smart follow-up sequences and re-engagement campaigns.",
+      "photo": "images/team/aisha-patel.jpg",
+      "linkedIn": "",
+      "email": ""
+    }
+  ],
+
+  "caseStudies": [
+    {
+      "id": "glow-medspa",
+      "clientName": "Glow MedSpa",
+      "location": "Miami, FL",
+      "industry": "Medical Spa",
+      "featured": true,
+      "featuredImage": "images/case-studies/glow-medspa.jpg",
+      "logo": "images/clients/glow-medspa-logo.png",
+      "slug": "glow-medspa-miami",
+      "testimonial": {
+        "quote": "Working with MedSpa Flywheel completely transformed my business. Within 90 days, we went from barely covering expenses to having a waitlist for certain treatments. Their team understood our industry, knew exactly how to reach our ideal clients, and delivered results that exceeded every expectation.",
+        "author": "Dr. Sarah Chen",
+        "authorTitle": "Founder & Medical Director",
+        "authorPhoto": "images/testimonials/dr-sarah-chen.jpg"
+      },
+      "challenge": "Glow MedSpa was struggling with high cost per lead ($87) and low appointment booking rates. Their Google Ads campaigns were targeting too broadly, resulting in unqualified leads and wasted ad spend.",
+      "solution": "We implemented a precision-targeted Google Ads strategy focusing on high-intent keywords, created compelling ad copy highlighting their unique treatments, and set up automated email sequences to nurture leads.",
+      "results": {
+        "headline": "180% Increase in Monthly Bookings",
+        "metrics": [
+          {
+            "label": "Increase in Bookings",
+            "value": "+180%",
+            "description": "From 14 to 72 appointments per month"
+          },
+          {
+            "label": "Return on Ad Spend",
+            "value": "4.2x",
+            "description": "For every $1 spent, generated $4.20 in revenue"
+          },
+          {
+            "label": "Cost Per Lead",
+            "value": "$31",
+            "description": "Reduced from $87 to $31 (64% reduction)"
+          }
+        ],
+        "timeline": "90 days",
+        "additionalRevenue": "$287K",
+        "tags": ["Google Ads", "Email Automation", "Local SEO"]
+      },
+      "timeline": [
+        {
+          "period": "Week 1-2",
+          "milestone": "Campaign Setup & Launch",
+          "description": "Conducted market research, set up conversion tracking, launched initial campaigns"
+        },
+        {
+          "period": "Week 3-4",
+          "milestone": "Optimization Phase",
+          "description": "Analyzed early data, paused underperforming keywords, increased budget on winners"
+        },
+        {
+          "period": "Week 5-8",
+          "milestone": "Scale & Automation",
+          "description": "Scaled winning campaigns, implemented automated email sequences"
+        },
+        {
+          "period": "Week 9-12",
+          "milestone": "Refinement & Growth",
+          "description": "Fine-tuned targeting, expanded to new treatment offerings, achieved 180% increase"
+        }
+      ]
+    },
+    {
+      "id": "radiance-aesthetics",
+      "clientName": "Radiance Aesthetics",
+      "location": "Charleston, SC",
+      "industry": "Aesthetic Clinic",
+      "featured": false,
+      "featuredImage": "images/case-studies/radiance-aesthetics.jpg",
+      "logo": "images/clients/radiance-aesthetics-logo.png",
+      "slug": "radiance-aesthetics-charleston",
+      "challenge": "Low lead-to-client conversion rate and no systematic follow-up process for inquiries.",
+      "results": {
+        "headline": "62% Lead-to-Client Conversion Rate",
+        "metrics": [
+          {
+            "label": "Conversion Rate",
+            "value": "62%",
+            "description": "From initial inquiry to booked appointment"
+          },
+          {
+            "label": "Email Open Rate",
+            "value": "48%",
+            "description": "For automated follow-up sequences"
+          },
+          {
+            "label": "Revenue Increase",
+            "value": "+127%",
+            "description": "Within 6 months"
+          }
+        ],
+        "tags": ["Email Marketing", "CRM", "Conversion Optimization"]
+      }
+    },
+    {
+      "id": "elite-rejuvenation",
+      "clientName": "Elite Rejuvenation",
+      "location": "Atlanta, GA",
+      "industry": "Medical Spa",
+      "featured": false,
+      "featuredImage": "images/case-studies/elite-rejuvenation.jpg",
+      "logo": "images/clients/elite-rejuvenation-logo.png",
+      "slug": "elite-rejuvenation-atlanta",
+      "challenge": "Negative online reputation with few reviews and several 1-star ratings visible on Google.",
+      "results": {
+        "headline": "87 New 5-Star Reviews in 6 Months",
+        "metrics": [
+          {
+            "label": "New 5-Star Reviews",
+            "value": "87",
+            "description": "Systematic review generation system"
+          },
+          {
+            "label": "Google Rating",
+            "value": "4.8★",
+            "description": "Improved from 3.2 to 4.8 stars"
+          },
+          {
+            "label": "Organic Traffic",
+            "value": "+156%",
+            "description": "Due to improved local SEO ranking"
+          }
+        ],
+        "tags": ["Review Generation", "Reputation Management", "Local SEO"]
+      }
+    },
+    {
+      "id": "bella-vita-medspa",
+      "clientName": "Bella Vita MedSpa",
+      "location": "Tampa, FL",
+      "industry": "Medical Spa",
+      "featured": false,
+      "featuredImage": "images/case-studies/bella-vita-medspa.jpg",
+      "logo": "images/clients/bella-vita-medspa-logo.png",
+      "slug": "bella-vita-medspa-tampa",
+      "challenge": "Inconsistent social media presence and difficulty reaching younger demographic (25-35).",
+      "results": {
+        "headline": "340% Growth in Instagram Followers",
+        "metrics": [
+          {
+            "label": "Instagram Growth",
+            "value": "+340%",
+            "description": "From 800 to 3,520 engaged followers"
+          },
+          {
+            "label": "Engagement Rate",
+            "value": "6.2%",
+            "description": "Well above industry average of 1.5%"
+          },
+          {
+            "label": "Social-Sourced Bookings",
+            "value": "28%",
+            "description": "Of all new client appointments"
+          }
+        ],
+        "tags": ["Social Media", "Instagram Marketing", "Content Creation"]
+      }
+    },
+    {
+      "id": "pure-aesthetics",
+      "clientName": "Pure Aesthetics",
+      "location": "Savannah, GA",
+      "industry": "Aesthetic Clinic",
+      "featured": false,
+      "featuredImage": "images/case-studies/pure-aesthetics.jpg",
+      "logo": "images/clients/pure-aesthetics-logo.png",
+      "slug": "pure-aesthetics-savannah",
+      "challenge": "High ad costs with poor targeting resulting in low-quality leads that rarely converted.",
+      "results": {
+        "headline": "$42 Cost Per Qualified Lead",
+        "metrics": [
+          {
+            "label": "Cost Per Lead",
+            "value": "$42",
+            "description": "Down from $128 (67% reduction)"
+          },
+          {
+            "label": "Lead Quality Score",
+            "value": "8.4/10",
+            "description": "Based on booking likelihood"
+          },
+          {
+            "label": "ROAS",
+            "value": "5.1x",
+            "description": "Return on ad spend"
+          }
+        ],
+        "tags": ["Facebook Ads", "Audience Targeting", "Lead Qualification"]
+      }
+    },
+    {
+      "id": "luxury-skin-clinic",
+      "clientName": "Luxury Skin Clinic",
+      "location": "Nashville, TN",
+      "industry": "Medical Spa",
+      "featured": false,
+      "featuredImage": "images/case-studies/luxury-skin-clinic.jpg",
+      "logo": "images/clients/luxury-skin-clinic-logo.png",
+      "slug": "luxury-skin-clinic-nashville",
+      "challenge": "No systematic process for re-booking existing clients or following up on missed appointments.",
+      "results": {
+        "headline": "$127K Revenue from Automated Re-Booking",
+        "metrics": [
+          {
+            "label": "Automated Revenue",
+            "value": "$127K",
+            "description": "From re-booking campaigns in 12 months"
+          },
+          {
+            "label": "Client Retention",
+            "value": "+89%",
+            "description": "Increase in repeat bookings"
+          },
+          {
+            "label": "Campaign ROI",
+            "value": "12.7x",
+            "description": "For automated email sequences"
+          }
+        ],
+        "tags": ["Email Automation", "Client Retention", "CRM Integration"]
+      }
+    }
+  ],
+
+  "locationDefaults": {
+    "stats": {
+      "bookingIncrease": "180%",
+      "bookingIncreaseLabel": "Increase in Monthly Bookings",
+      "reviews": "87",
+      "reviewsLabel": "New 5-Star Reviews in 90 Days",
+      "medSpasInCity": "15+"
+    },
+    "caseStudyCount": 3
+  },
+
+  "images": {
+    "og": {
+      "default": "images/og-image.jpg",
+      "blog": "images/og-blog.jpg",
+      "locations": "images/og-locations.jpg"
+    },
+    "twitter": {
+      "default": "images/twitter-image.jpg"
+    },
+    "placeholders": {
+      "clientLogo": "images/placeholders/client-logo.svg",
+      "teamPhoto": "images/placeholders/team-photo.svg",
+      "caseStudy": "images/placeholders/case-study.jpg"
+    }
+  },
+
+  "certifications": [
+    {
+      "name": "Google Ads Certified",
+      "icon": "images/badges/google-ads.png",
+      "url": ""
+    },
+    {
+      "name": "Facebook Blueprint",
+      "icon": "images/badges/facebook-blueprint.png",
+      "url": ""
+    },
+    {
+      "name": "HubSpot Partner",
+      "icon": "images/badges/hubspot-partner.png",
+      "url": ""
+    },
+    {
+      "name": "Better Business Bureau A+",
+      "icon": "images/badges/bbb-a-plus.png",
+      "url": ""
+    }
+  ],
+
+  "seo": {
+    "defaultTitle": "MedSpa Flywheel - Medical Spa Marketing That Delivers Results",
+    "defaultDescription": "Specialized marketing agency for medical spas. Average 180% booking increase in 90 days. Google Ads, automation, and more.",
+    "siteName": "MedSpa Flywheel",
+    "siteUrl": "https://medspaflywheel.com",
+    "twitterHandle": "@medspaflywheel"
+  },
+
+  "notes": {
+    "lastUpdated": "2024-01-15",
+    "instructions": "Edit this file to update content across the entire site. Run 'npm run build' to apply changes to HTML files.",
+    "placeholderStatus": "🚨 ALL CONTENT IN THIS FILE IS PLACEHOLDER DATA. Replace with real information before launch."
+  }
+}
