@@ -5,6 +5,8 @@
   "scripts": {
     "update-content": "python3 scripts/update-content.py",
     "update-city-images": "python3 scripts/update-city-images.py",
+    "update-logo": "python3 scripts/update-logo.py",
+    "add-favicon": "python3 scripts/add-favicon-links.py",
     "build": "python3 scripts/update-content.py && echo 'Content updated successfully!'",
     "dev": "python3 scripts/update-content.py && python3 -m http.server 8000",
     "test": "echo 'No tests configured yet'"
