@@ -252,7 +252,12 @@
                             <h2 class="text-3xl font-bold text-gray-900 mb-2">Schedule Your Strategy Call</h2>
                             <p class="text-gray-600 mb-8">Fill out the form below and we'll get back to you within 24 hours.</p>
 
-                            <form id="contact-form" class="space-y-6">
+                            <form id="contact-form" class="space-y-6" action="https://formspree.io/f/meodonkw" method="POST">
+                                <!-- Formspree Configuration -->
+                                <input type="hidden" name="_next" value="https://medspaflywheel.com/thank-you.html">
+                                <input type="hidden" name="_subject" value="New Lead from MedSpa Flywheel Contact Form">
+                                <input type="hidden" name="_cc" value="">
+                                
 
                                 <!-- Name -->
                                 <div>
@@ -797,19 +802,16 @@
         const contactForm = document.getElementById('contact-form');
         
         contactForm.addEventListener('submit', (e) => {
-            e.preventDefault();
-            
-            // Get form data
-            const formData = new FormData(contactForm);
-            const data = Object.fromEntries(formData);
-            
-            console.log('Form submitted:', data);
-            
-            // Show success message (in production, this would submit to a server)
-            alert('Thank you for your inquiry! We\'ll get back to you within 24 hours.');
-            
-            // Reset form
-            contactForm.reset();
+            // Formspree will handle the submission
+            // Show loading state
+            const submitButton = contactForm.querySelector('button[type="submit"]');
+            const originalButtonText = submitButton.innerHTML;
+            submitButton.innerHTML = '<svg class="animate-spin inline-block w-5 h-5 mr-2" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg> Sending...';
+            submitButton.disabled = true;
+
+            // Note: Formspree will handle the actual submission
+            // The form will POST to https://formspree.io/f/YOUR_FORM_ID
+            // After submission, user will be redirected to thank-you.html
         });
     </script>
 
