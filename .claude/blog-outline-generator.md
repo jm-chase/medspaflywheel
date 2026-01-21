@@ -19,16 +19,24 @@ Target Audience: [Med spa owners / Med spa managers / Med spa marketers]
 Word Count Target: 2,500 words
 Search Intent: [Informational / Commercial / Transactional]
 
+⚠️ CRITICAL CONTENT RULES:
+- NEVER create fabricated case studies or fake client examples
+- ALL statistics must cite reputable sources (WordStream, HubSpot, DMA, AmSpa, etc.)
+- Use "Example Scenario:" for hypotheticals (never "Real Example:" unless verified)
+- Use industry benchmarks and ranges, not made-up specific numbers
+- Never attribute results to unnamed clients or cities
+
 The outline should include:
 1. Compelling title (include primary keyword)
 2. Meta description (150 chars, include keyword)
-3. Hook/opening paragraph (include statistic or problem statement)
+3. Hook/opening paragraph (include statistic with source or problem statement)
 4. 6-7 main sections (H2s) with:
    - 3-5 bullet points per section
-   - Where to add examples
+   - Where to add industry benchmark data (specify sources)
+   - Where hypothetical examples would be helpful (label as "Example Scenario")
    - Internal linking opportunities
 5. Conclusion with clear CTA
-6. Key statistics to include (with sources)
+6. Key statistics to include WITH SOURCES (WordStream, HubSpot, DMA, etc.)
 7. Related keywords to naturally weave in
 
 Format the outline as markdown with clear headings and bullet points.

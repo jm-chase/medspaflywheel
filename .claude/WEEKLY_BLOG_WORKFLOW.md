@@ -58,10 +58,17 @@ Open: `blog/[your-slug].html`
 - [ ] Write compelling intro (hook + promise)
 - [ ] Write clear conclusion + CTA
 
+⚠️ **CRITICAL - Content Guidelines:**
+- [ ] NO fabricated case studies or client examples
+- [ ] ALL statistics cited with sources (WordStream, HubSpot, DMA, etc.)
+- [ ] Use "Example Scenario:" for hypotheticals (NOT "Real Example:" unless verified)
+- [ ] No specific client results without written permission
+- [ ] Review: `.claude/BLOG_CONTENT_GUIDELINES.md` before writing
+
 **Time-saving tips:**
 - Use bullet lists (easier to read)
-- Add examples from your experience
-- Include "Real Example" or "Case Study" sections
+- Include industry benchmark data with sources
+- Use clearly labeled hypothetical scenarios
 - Break up text with subheadings every 200-300 words
 
 ---
