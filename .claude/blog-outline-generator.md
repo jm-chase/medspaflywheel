@@ -48,7 +48,7 @@ Format the outline as markdown with clear headings and bullet points.
 
 ### Input:
 ```
-Topic: How to Market a Med Spa: Complete 2025 Guide
+Topic: How to Market a Med Spa: Complete 2026 Guide
 Primary Keyword: how to market a med spa
 Target Audience: Med spa owners
 Word Count Target: 2,500 words
@@ -57,7 +57,7 @@ Search Intent: Informational
 
 ### Output Example:
 ```
-# How to Market a Med Spa: Complete 2025 Guide
+# How to Market a Med Spa: Complete 2026 Guide
 
 ## Meta Description
 Learn how to market a med spa effectively with 7 proven strategies. Includes Google Ads, email automation, and social media tactics. 180% avg booking increase.
