@@ -8,31 +8,31 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/services.html</loc>
+    <loc>https://medspaflywheel.com/services</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/process.html</loc>
+    <loc>https://medspaflywheel.com/process</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/case-studies.html</loc>
+    <loc>https://medspaflywheel.com/case-studies</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/about.html</loc>
+    <loc>https://medspaflywheel.com/about</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/contact.html</loc>
+    <loc>https://medspaflywheel.com/contact</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -46,19 +46,19 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/industries/botox-clinics.html</loc>
+    <loc>https://medspaflywheel.com/industries/botox-clinics</loc>
     <lastmod>2026-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/industries/iv-therapy.html</loc>
+    <loc>https://medspaflywheel.com/industries/iv-therapy</loc>
     <lastmod>2026-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/industries/peptide-clinics.html</loc>
+    <loc>https://medspaflywheel.com/industries/peptide-clinics</loc>
     <lastmod>2026-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -66,7 +66,7 @@
 
   <!-- Blog Pages -->
   <url>
-    <loc>https://medspaflywheel.com/blog.html</loc>
+    <loc>https://medspaflywheel.com/blog</loc>
     <lastmod>2026-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -74,7 +74,7 @@
 
   <!-- Blog Posts -->
   <url>
-    <loc>https://medspaflywheel.com/blog/how-to-market-med-spa.html</loc>
+    <loc>https://medspaflywheel.com/blog/how-to-market-med-spa</loc>
     <lastmod>2026-01-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -82,7 +82,7 @@
 
   <!-- Locations Index -->
   <url>
-    <loc>https://medspaflywheel.com/locations.html</loc>
+    <loc>https://medspaflywheel.com/locations</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -90,61 +90,61 @@
   
   <!-- Florida Locations -->
   <url>
-    <loc>https://medspaflywheel.com/miami-fl.html</loc>
+    <loc>https://medspaflywheel.com/miami-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/orlando-fl.html</loc>
+    <loc>https://medspaflywheel.com/orlando-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/tampa-fl.html</loc>
+    <loc>https://medspaflywheel.com/tampa-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/jacksonville-fl.html</loc>
+    <loc>https://medspaflywheel.com/jacksonville-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/fort-lauderdale-fl.html</loc>
+    <loc>https://medspaflywheel.com/fort-lauderdale-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/naples-fl.html</loc>
+    <loc>https://medspaflywheel.com/naples-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/sarasota-fl.html</loc>
+    <loc>https://medspaflywheel.com/sarasota-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/west-palm-beach-fl.html</loc>
+    <loc>https://medspaflywheel.com/west-palm-beach-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/boca-raton-fl.html</loc>
+    <loc>https://medspaflywheel.com/boca-raton-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/clearwater-fl.html</loc>
+    <loc>https://medspaflywheel.com/clearwater-fl</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -152,43 +152,43 @@
   
   <!-- Georgia Locations -->
   <url>
-    <loc>https://medspaflywheel.com/atlanta-ga.html</loc>
+    <loc>https://medspaflywheel.com/atlanta-ga</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/savannah-ga.html</loc>
+    <loc>https://medspaflywheel.com/savannah-ga</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/augusta-ga.html</loc>
+    <loc>https://medspaflywheel.com/augusta-ga</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/columbus-ga.html</loc>
+    <loc>https://medspaflywheel.com/columbus-ga</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/sandy-springs-ga.html</loc>
+    <loc>https://medspaflywheel.com/sandy-springs-ga</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/alpharetta-ga.html</loc>
+    <loc>https://medspaflywheel.com/alpharetta-ga</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/athens-ga.html</loc>
+    <loc>https://medspaflywheel.com/athens-ga</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -196,49 +196,49 @@
   
   <!-- North Carolina Locations -->
   <url>
-    <loc>https://medspaflywheel.com/charlotte-nc.html</loc>
+    <loc>https://medspaflywheel.com/charlotte-nc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/raleigh-nc.html</loc>
+    <loc>https://medspaflywheel.com/raleigh-nc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/greensboro-nc.html</loc>
+    <loc>https://medspaflywheel.com/greensboro-nc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/durham-nc.html</loc>
+    <loc>https://medspaflywheel.com/durham-nc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/winston-salem-nc.html</loc>
+    <loc>https://medspaflywheel.com/winston-salem-nc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/asheville-nc.html</loc>
+    <loc>https://medspaflywheel.com/asheville-nc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/cary-nc.html</loc>
+    <loc>https://medspaflywheel.com/cary-nc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/chapel-hill-nc.html</loc>
+    <loc>https://medspaflywheel.com/chapel-hill-nc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -246,31 +246,31 @@
   
   <!-- South Carolina Locations -->
   <url>
-    <loc>https://medspaflywheel.com/charleston-sc.html</loc>
+    <loc>https://medspaflywheel.com/charleston-sc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/columbia-sc.html</loc>
+    <loc>https://medspaflywheel.com/columbia-sc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/greenville-sc.html</loc>
+    <loc>https://medspaflywheel.com/greenville-sc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/myrtle-beach-sc.html</loc>
+    <loc>https://medspaflywheel.com/myrtle-beach-sc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/hilton-head-sc.html</loc>
+    <loc>https://medspaflywheel.com/hilton-head-sc</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -278,31 +278,31 @@
   
   <!-- Tennessee Locations -->
   <url>
-    <loc>https://medspaflywheel.com/nashville-tn.html</loc>
+    <loc>https://medspaflywheel.com/nashville-tn</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/memphis-tn.html</loc>
+    <loc>https://medspaflywheel.com/memphis-tn</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/knoxville-tn.html</loc>
+    <loc>https://medspaflywheel.com/knoxville-tn</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/chattanooga-tn.html</loc>
+    <loc>https://medspaflywheel.com/chattanooga-tn</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/franklin-tn.html</loc>
+    <loc>https://medspaflywheel.com/franklin-tn</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -310,25 +310,25 @@
   
   <!-- Alabama Locations -->
   <url>
-    <loc>https://medspaflywheel.com/birmingham-al.html</loc>
+    <loc>https://medspaflywheel.com/birmingham-al</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/huntsville-al.html</loc>
+    <loc>https://medspaflywheel.com/huntsville-al</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/montgomery-al.html</loc>
+    <loc>https://medspaflywheel.com/montgomery-al</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/mobile-al.html</loc>
+    <loc>https://medspaflywheel.com/mobile-al</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -336,31 +336,31 @@
   
   <!-- Virginia Locations -->
   <url>
-    <loc>https://medspaflywheel.com/virginia-beach-va.html</loc>
+    <loc>https://medspaflywheel.com/virginia-beach-va</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/richmond-va.html</loc>
+    <loc>https://medspaflywheel.com/richmond-va</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/norfolk-va.html</loc>
+    <loc>https://medspaflywheel.com/norfolk-va</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/chesapeake-va.html</loc>
+    <loc>https://medspaflywheel.com/chesapeake-va</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://medspaflywheel.com/arlington-va.html</loc>
+    <loc>https://medspaflywheel.com/arlington-va</loc>
     <lastmod>2025-12-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

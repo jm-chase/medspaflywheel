@@ -7,11 +7,84 @@ https://www.medspaflywheel.com/*  https://medspaflywheel.com/:splat  301!
 # Redirect /home and /index to root
 /home      /       301
 /index     /       301
+/index.html /      301
 
-# Trailing slash redirect
-/services/ /services.html 301
-/about/    /about.html    301
-/blog/     /blog.html     301
+# Redirect .html URLs to clean URLs (Netlify Pretty URLs handles serving)
+/services.html          /services       301
+/about.html             /about          301
+/process.html           /process        301
+/contact.html           /contact        301
+/case-studies.html      /case-studies   301
+/blog.html              /blog           301
+/locations.html         /locations      301
+/thank-you.html         /thank-you      301
 
-# 404 fallback
+# Industry pages
+/industries/index.html          /industries/            301
+/industries/botox-clinics.html  /industries/botox-clinics  301
+/industries/iv-therapy.html     /industries/iv-therapy     301
+/industries/peptide-clinics.html /industries/peptide-clinics 301
+
+# Blog posts
+/blog/how-to-market-med-spa.html /blog/how-to-market-med-spa 301
+
+# Location pages - Florida
+/miami-fl.html              /miami-fl           301
+/orlando-fl.html            /orlando-fl         301
+/tampa-fl.html              /tampa-fl           301
+/jacksonville-fl.html       /jacksonville-fl    301
+/fort-lauderdale-fl.html    /fort-lauderdale-fl 301
+/naples-fl.html             /naples-fl          301
+/sarasota-fl.html           /sarasota-fl        301
+/west-palm-beach-fl.html    /west-palm-beach-fl 301
+/boca-raton-fl.html         /boca-raton-fl      301
+/clearwater-fl.html         /clearwater-fl      301
+
+# Location pages - Georgia
+/atlanta-ga.html            /atlanta-ga         301
+/savannah-ga.html           /savannah-ga        301
+/augusta-ga.html            /augusta-ga         301
+/columbus-ga.html           /columbus-ga        301
+/sandy-springs-ga.html      /sandy-springs-ga   301
+/alpharetta-ga.html         /alpharetta-ga      301
+/athens-ga.html             /athens-ga          301
+
+# Location pages - North Carolina
+/charlotte-nc.html          /charlotte-nc       301
+/raleigh-nc.html            /raleigh-nc         301
+/greensboro-nc.html         /greensboro-nc      301
+/durham-nc.html             /durham-nc          301
+/winston-salem-nc.html      /winston-salem-nc   301
+/asheville-nc.html          /asheville-nc       301
+/cary-nc.html               /cary-nc            301
+/chapel-hill-nc.html        /chapel-hill-nc     301
+
+# Location pages - South Carolina
+/charleston-sc.html         /charleston-sc      301
+/columbia-sc.html           /columbia-sc        301
+/greenville-sc.html         /greenville-sc      301
+/myrtle-beach-sc.html       /myrtle-beach-sc    301
+/hilton-head-sc.html        /hilton-head-sc     301
+
+# Location pages - Tennessee
+/nashville-tn.html          /nashville-tn       301
+/memphis-tn.html            /memphis-tn         301
+/knoxville-tn.html          /knoxville-tn       301
+/chattanooga-tn.html        /chattanooga-tn     301
+/franklin-tn.html           /franklin-tn        301
+
+# Location pages - Alabama
+/birmingham-al.html         /birmingham-al      301
+/huntsville-al.html         /huntsville-al      301
+/montgomery-al.html         /montgomery-al      301
+/mobile-al.html             /mobile-al          301
+
+# Location pages - Virginia
+/virginia-beach-va.html     /virginia-beach-va  301
+/richmond-va.html           /richmond-va        301
+/norfolk-va.html            /norfolk-va         301
+/chesapeake-va.html         /chesapeake-va      301
+/arlington-va.html          /arlington-va       301
+
+# 404 fallback (must be last)
 /*         /404.html      404
