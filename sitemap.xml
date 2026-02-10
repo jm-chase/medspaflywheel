@@ -38,12 +38,46 @@
     <priority>0.9</priority>
   </url>
 
+  <!-- Industry Pages -->
+  <url>
+    <loc>https://medspaflywheel.com/industries/</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://medspaflywheel.com/industries/botox-clinics.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medspaflywheel.com/industries/iv-therapy.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medspaflywheel.com/industries/peptide-clinics.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Blog Pages -->
   <url>
     <loc>https://medspaflywheel.com/blog.html</loc>
-    <lastmod>2025-12-24</lastmod>
+    <lastmod>2026-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://medspaflywheel.com/blog/how-to-market-med-spa.html</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <!-- Locations Index -->
