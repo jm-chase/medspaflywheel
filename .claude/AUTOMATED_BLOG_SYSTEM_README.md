@@ -102,7 +102,7 @@ Print this and keep at your desk!
 ### Examples
 ```bash
 # Week 1 post:
-./.claude/blog-generator.sh "How to Market a Med Spa: Complete 2025 Guide" "how-to-market-med-spa"
+./.claude/blog-generator.sh "How to Market a Med Spa: Complete 2026 Guide" "how-to-market-med-spa"
 
 # Week 2 post:
 ./.claude/blog-generator.sh "50+ Med Spa Marketing Ideas That Actually Work" "med-spa-marketing-ideas"
@@ -475,7 +475,7 @@ Ask Claude (this assistant):
 **You've Got This!** 🚀
 
 Start with Week 1: "How to Market a Med Spa"
-Run: `./.claude/blog-generator.sh "How to Market a Med Spa: Complete 2025 Guide" "how-to-market-med-spa"`
+Run: `./.claude/blog-generator.sh "How to Market a Med Spa: Complete 2026 Guide" "how-to-market-med-spa"`
 
 Then follow `WEEKLY_BLOG_WORKFLOW.md` step by step.
 
