@@ -5,6 +5,7 @@
   "installCommand": "echo 'No dependencies to install'",
   "framework": null,
   "public": true,
+  "cleanUrls": true,
   "github": {
     "silent": true
   },
